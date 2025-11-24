@@ -1,11 +1,8 @@
-# virtual environment
 venv/
 
-# python cache folders
 __pycache__/
 *.pyc
 
-# flask environment file
 .flaskenv
 
 config.py
